@@ -1,3 +1,5 @@
+LABAN LAURENT SALVATORY 
+14325083/T.24
 # Student Registration System
 
 Simple PHP + MySQL student registration demo intended for XAMPP.
